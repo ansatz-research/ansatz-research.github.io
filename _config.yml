@@ -1,5 +1,5 @@
 destination: ./build
 baseurl: 'ansatz-research.github.io'
 title: "ansatz-research"
-theme: just-the-docs
-search_enabled: true
+# theme: just-the-docs
+# search_enabled: true
